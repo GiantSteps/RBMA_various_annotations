@@ -1,0 +1,3 @@
+closed hihat (2) -> metallic sound at 5,8s
+clap (15) -> echoed sound on nearly every downbeat
+sidestick (14) -> offbeat clap sound at 8,7s

@@ -1,0 +1,3 @@
+high tom 	(13) -> tabla-like sound in the beginning
+crash cymbal 	(17) -> fx chrash
+chinese cymbal	(19) -> fx chrash 2

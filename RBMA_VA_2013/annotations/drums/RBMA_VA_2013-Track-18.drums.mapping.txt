@@ -1,0 +1,2 @@
+low floor tom (7) -> pitched low drum
+high floor tom (9) -> pitched low drum 2

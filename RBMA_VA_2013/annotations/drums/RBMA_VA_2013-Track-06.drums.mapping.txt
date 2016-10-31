@@ -1,0 +1,3 @@
+bass (0) -> deep sound on guitar soundboard
+snare (1) -> slap on guitar soundboard
+hihat (2) -> sweep on guitar soundboard
